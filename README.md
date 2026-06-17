@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpython28
 - 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning neat-python
+- 🌱 I’m currently learning PyTorch
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: please don't!
 
